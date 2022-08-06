@@ -1,0 +1,32 @@
+.container-fluid{
+    background-image:url(/assets/img/Dato-1.png);
+    height: 400px;
+ }
+
+.front{
+    color:white;
+}
+
+
+.img-perfil{
+    width: 300px;
+    height: 300px;
+}
+
+
+.animate__fadeInDownBig{
+    animation-duration: 1.5s;
+    
+}
+
+.col-sm-6{
+    margin: 0 auto;
+}
+h1{
+    color: #CBB700;
+}
+
+
+a{
+    text-decoration: none;
+}

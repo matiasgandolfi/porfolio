@@ -1,0 +1,42 @@
+.contacto{
+    background-color: black;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cont{
+    font-size: white;
+    padding: 20px;
+
+}
+
+.fa-instagram{
+    color: white;
+    font-size: 50px;
+}
+.fa-envelope{
+    color: white;
+    font-size: 50px;
+}
+
+.git2 {
+    color: white;
+    font-size: 50px;
+}
+
+.redes{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 30px;
+    padding-bottom: 20px;
+
+}
+
+.cont{
+    text-align: center;
+}
